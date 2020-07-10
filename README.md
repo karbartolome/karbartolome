@@ -1,4 +1,4 @@
-### Karina Bartolomé
+🌱
 
 #### Repositorios
 
