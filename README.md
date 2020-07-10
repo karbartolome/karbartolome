@@ -1,16 +1,19 @@
-### Hi there 👋
+### Karina Bartolomé
 
-<!--
-**karbartolome/karbartolome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Repositorios: 
 
-Here are some ideas to get you started:
+Participación en iniciativas: 
+- Datos de miércoles:
+- Tidy Tuesday
+- 30 días de gráficos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Analisis de datos de Argentina: 
+- [https://github.com/karbartolome/datos_argentina/tree/master/R] (Análisis de superficie total de alquileres en la Ciudad de Buenos Aires)
+
+Redes sociales: 
+- Twitter [https://github.com/karbartolome/twitter] (Hashtag #econtwitter durante la primera mitad del 2020)
+- Linkedin: [https://github.com/karbartolome/linkedin-network] (Visualización de mi red de contactos)
+
+Workshops: 
+- Api de transporte del GCBA [https://github.com/karbartolome/workshop_api_transporte_mapas](GDG Buenos Aires: Women Techmakers Buenos Aires)
+
