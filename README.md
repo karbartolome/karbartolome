@@ -1,6 +1,6 @@
 ## Repositorios
 
-🌎 **Iniciativas**
+🌎 **Participación en iniciativas**
 - [Datos de miércoles](https://github.com/karbartolome/datosdemiercoles)
 - [Tidy Tuesday](https://github.com/karbartolome/tidytuesday)
 - [30 días de gráficos (Mr Robot)](https://github.com/karbartolome/30diasdemrrobot)
