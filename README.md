@@ -15,4 +15,4 @@
 - [Visualización de mi red de contactos en Linkedin](https://github.com/karbartolome/linkedin-network) 
 
 🏫 **Workshops** 
-- [GDG Buenos Aires: Women Techmakers Buenos Aires: Api de transporte del GCBA] (https://github.com/karbartolome/workshop_api_transporte_mapas)
+- [GDG Buenos Aires: Women Techmakers Buenos Aires: Api de transporte del GCBA](https://github.com/karbartolome/workshop_api_transporte_mapas)
