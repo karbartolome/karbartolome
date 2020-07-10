@@ -1,6 +1,4 @@
-🌱
-
-#### Repositorios
+## Repositorios
 
 🌎 **Participación en iniciativas**
 - [Datos de miércoles](https://github.com/karbartolome/datosdemiercoles)
