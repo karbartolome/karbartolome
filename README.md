@@ -18,3 +18,4 @@
 
 🏫 **Workshops** 
 - [Women Techmakers Buenos Aires: Api de transporte GCBA](https://github.com/karbartolome/workshop_api_transporte_mapas)
+- [EANT - Workshop Data Analytics con Python](https://github.com/karbartolome/Workshop-Eant-Data-Analytics-Python)
