@@ -1,8 +1,5 @@
 ## Repositorios
 
-🌎 **Datos del mundo**
-- [Redes en el comercio mundial](https://github.com/karbartolome/comercio-exterior) 
-
 🇦🇷 **Datos de Argentina**
 - [Análisis de superficie total de alquileres en la Ciudad de Buenos Aires](https://github.com/karbartolome/datos_argentina/tree/master/R) 
 - [Evolución del valor bruto de producción por rama de actividad: 2004q1 - 2020-q1](https://github.com/karbartolome/datos_argentina/blob/master/R/valor_bruto_produccion.R)
