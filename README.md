@@ -34,12 +34,12 @@
 
 <p float="left">
     <a href="https://karbartolome.netlify.app/">
-     <img alt="Vis" src="images/image_2.png" title="Visual Blog" width="300">
+     <img alt="Vis" src="images/image_2.png" title="Visual Blog" width="250">
     </a>
     <a href="https://karbartolome-blog.netlify.app/">
-     <img alt="Vis" src="images/image_1.png" title="Personal Blog" width="300">
+     <img alt="Vis" src="images/image_1.png" title="Personal Blog" width="250">
     </a>
     <a href="https://redescomerciales.herokuapp.com/">
-     <img alt="Vis" src="images/image_3.jpeg" title="Redes Comerciales" width="275.25">
+     <img alt="Vis" src="images/image_3.jpeg" title="Redes Comerciales" width="240">
     </a>
 </p>
