@@ -3,8 +3,10 @@
 <p align="left">
 <img src="https://www.r-project.org/Rlogo.png" alt="react" width="25" height="25" />
 <img src="https://github.com/tidyverse/tidyverse/raw/master/man/figures/logo.png" alt="react" width="25" height="25" />
+<img src="https://avatars.githubusercontent.com/u/29100987?s=280&v=4" alt="react" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/898px-Pandas_mark.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="react" width="25" height="25" /> 
 </p>
 
 :argentina: **Datos de Argentina**
