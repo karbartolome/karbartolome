@@ -19,30 +19,37 @@
 
 :seedling: **Participación en iniciativas**
 
+-   [RLadies](https://github.com/karbartolome/rladies_charlas)
 -   [Datos de miércoles](https://github.com/karbartolome/datosdemiercoles)
 -   [Tidy Tuesday](https://github.com/karbartolome/tidytuesday)
 -   [30 días de gráficos (Mr Robot)](https://github.com/karbartolome/30diasdemrrobot)
+-   [Women Techmakers Buenos Aires: Api de transporte GCBA](https://github.com/karbartolome/workshop_api_transporte_mapas)
+-   [EANT - Workshop Data Analytics con Python](https://github.com/karbartolome/Workshop-Eant-Data-Analytics-Python)
 
 :busts_in_silhouette: **Redes sociales**
 
 -   [Hashtag \#econtwitter durante la primera mitad del 2020](https://github.com/karbartolome/twitter)
 -   [Visualización de mi red de contactos en Linkedin](https://github.com/karbartolome/linkedin-network)
 
-:school: **Workshops**
+:gear: **Paquetes en los que contribuyo**
 
--   [Women Techmakers Buenos Aires: Api de transporte GCBA](https://github.com/karbartolome/workshop_api_transporte_mapas)
--   [EANT - Workshop Data Analytics con Python](https://github.com/karbartolome/Workshop-Eant-Data-Analytics-Python)
+<p float="left">
+    <a href="https://github.com/karbartolome/shinymatic">
+        <img alt="shinymatic" src="https://github.com/karbartolome/shinymatic/raw/main/man/figures/logo.png" 
+             title="shinymatic" width="5%" style="display: block; margin: auto;">
+    </a>
+    <a href="https://github.com/rafzamb/sknifedatar">
+        <img alt="sknifedatar" src="https://github.com/rafzamb/sknifedatar/raw/master/man/figures/logo.png" 
+             title="sknifedatar" width="5%" style="display: block; margin: auto;">
+    </a>
+</p>
 
 :memo: **Blogs & Dashboards:**
 
 <p float="left">
-    <a href="https://karbartolome.netlify.app/">
-     <img alt="Vis" src="images/image_2.png" title="Visual Blog" width="250">
-    </a>
-    <a href="https://karbartolome-blog.netlify.app/">
-     <img alt="Vis" src="images/image_1.png" title="Personal Blog" width="250">
-    </a>
-    <a href="https://redescomerciales.herokuapp.com/">
-     <img alt="Vis" src="images/image_3.jpeg" title="Redes Comerciales" width="240">
-    </a>
+<a href="https://karbartolome.netlify.app/">
+ <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="60%" style="display: block; margin: auto;">
+</a>
 </p>
+
+
