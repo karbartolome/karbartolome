@@ -47,7 +47,7 @@
 :memo: **Blogs & Dashboards:**
 
 <p float="left">
-<a href="https://karbartolome.netlify.app/">
+<a href="https://karbartolome-blog.netlify.app/">
  <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="60%" style="display: block; margin: auto;">
 </a>
 </p>
