@@ -36,11 +36,11 @@
 <p float="left">
     <a href="https://github.com/karbartolome/shinymatic">
         <img alt="shinymatic" src="https://github.com/karbartolome/shinymatic/raw/main/man/figures/logo.png" 
-             title="shinymatic" width="5%" style="display: block; margin: auto;">
+             title="shinymatic" width="40" height="40" style="display: block; margin: auto;">
     </a>
     <a href="https://github.com/rafzamb/sknifedatar">
         <img alt="sknifedatar" src="https://github.com/rafzamb/sknifedatar/raw/master/man/figures/logo.png" 
-             title="sknifedatar" width="5%" style="display: block; margin: auto;">
+             title="sknifedatar"  width="40" height="40" style="display: block; margin: auto;">
     </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 <p float="left">
 <a href="https://karbartolome-blog.netlify.app/">
- <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="60%" style="display: block; margin: auto;">
+ <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="75%" style="display: block; margin: auto;">
 </a>
 </p>
 
