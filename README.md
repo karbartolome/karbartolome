@@ -48,7 +48,7 @@
 
 <p float="left">
 <a href="https://karbartolome-blog.netlify.app/">
- <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="75%" style="display: block; margin: auto;">
+ <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="85%" style="display: block; margin: auto;">
 </a>
 </p>
 
