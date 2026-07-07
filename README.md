@@ -1,55 +1,71 @@
-[![Twitter Badge](https://img.shields.io/badge/-@karbartolome-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karbartolome)](https://twitter.com/karbartolome) [![Linkedin Badge](https://img.shields.io/badge/-karinabartolome-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinabartolome/)](https://www.linkedin.com/in/karinabartolome/) [![Website Badge](https://img.shields.io/badge/-Personal%20blog-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://karbartolome-blog.netlify.app/)](https://karbartolome-blog.netlify.app/)![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/karbartolome&style=flat-square&color=0088cc)
+# Hola!
 
+Soy Karina Bartolomé, me desempeño como data scientist en el rubro fintech. Tengo un [blog](ttps://karbartolome-blog.netlify.app/) sobre modelado y visualización de datos. 
 
 <p align="left">
-<img src="https://www.r-project.org/Rlogo.png" alt="react" width="25" height="25" />
-<img src="https://github.com/tidyverse/tidyverse/raw/main/man/figures/logo.png" alt="react" width="25" height="25" />
-<img src="https://github.com/tidymodels/tidymodels/raw/main/man/figures/logo.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/898px-Pandas_mark.svg.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="react" width="25" height="25" /> 
+  <img alt="R" title="R" src="images/tools/r.svg" width="32" height="32" />
+  <img alt="tidyverse" title="tidyverse" src="images/tools/tidyverse.png" width="32" height="32" />
+  <img alt="tidymodels" title="tidymodels" src="images/tools/tidymodels.png" width="32" height="32" />
+  <img alt="Python" title="Python" src="images/tools/python.svg" width="32" height="32" />
+  <img alt="pandas" title="pandas" src="images/tools/pandas.svg" width="32" height="32" />
+  <img alt="NumPy" title="NumPy" src="images/tools/numpy.svg" width="32" height="32" />
+  <img alt="scikit-learn" title="scikit-learn" src="images/tools/scikit-learn.svg" width="32" height="32" />
+  <img alt="Matplotlib" title="Matplotlib" src="images/tools/matplotlib.svg" width="32" height="32" />
+  <img alt="Seaborn" title="Seaborn" src="images/tools/seaborn.svg" width="32" height="32" />
+  <img alt="spaCy" title="spaCy" src="images/tools/spacy.svg" width="32" height="32" />
+  <img alt="statsmodels" title="statsmodels" src="images/tools/statsmodels.svg" width="32" height="32" />
+  <img alt="MLflow" title="MLflow" src="images/tools/mlflow.svg" width="32" height="32" />
+  <img alt="Apache Airflow" title="Apache Airflow" src="images/tools/airflow.svg" width="32" height="32" />
+  <img alt="Git" title="Git" src="images/tools/git.svg" width="32" height="32" />
 </p>
 
-:argentina: **Datos de Argentina**
 
--   [Análisis de superficie total de alquileres en la Ciudad de Buenos Aires](https://github.com/karbartolome/datos_argentina/tree/master/R)
--   [Evolución del valor bruto de producción por rama de actividad: 2004q1 - 2020-q1](https://github.com/karbartolome/datos_argentina/blob/master/R/valor_bruto_produccion.R)
--   [Uso de Eco Bicis durante el 2019](https://github.com/karbartolome/datos_argentina/blob/master/R/ecobicis-calendarplot.R)
--   [Dashboard ENACOM - en curso](https://github.com/karbartolome/enacom)
+## Participación en iniciativas y workshops
 
-:seedling: **Participación en iniciativas**
+- [Workshops](https://github.com/karbartolome/workshops)
+- [R-Ladies](https://github.com/karbartolome/rladies_charlas)
+- [Datos de miércoles](https://github.com/karbartolome/datosdemiercoles)
+- [TidyTuesday](https://github.com/karbartolome/tidytuesday)
+- [30 días de gráficos: Mr. Robot](https://github.com/karbartolome/30diasdemrrobot)
+- [Women Techmakers Buenos Aires: API de transporte GCBA](https://github.com/karbartolome/workshop_api_transporte_mapas)
+- [EANT: Workshop Data Analytics con Python](https://github.com/karbartolome/Workshop-Eant-Data-Analytics-Python)
 
--   [RLadies](https://github.com/karbartolome/rladies_charlas)
--   [Datos de miércoles](https://github.com/karbartolome/datosdemiercoles)
--   [Tidy Tuesday](https://github.com/karbartolome/tidytuesday)
--   [30 días de gráficos (Mr Robot)](https://github.com/karbartolome/30diasdemrrobot)
--   [Women Techmakers Buenos Aires: Api de transporte GCBA](https://github.com/karbartolome/workshop_api_transporte_mapas)
--   [EANT - Workshop Data Analytics con Python](https://github.com/karbartolome/Workshop-Eant-Data-Analytics-Python)
+## Datos de Argentina 🇦🇷
 
-:busts_in_silhouette: **Redes sociales**
+- [Análisis del uso del subte: comparación de {pandas} de python y {gt} de R para generar tablas](https://karbartolome.quarto.pub/the-grammar-of-tables/)
+- [Análisis de superficie total de alquileres en la Ciudad de Buenos Aires](https://github.com/karbartolome/datos_argentina/tree/master/R)
+- [Evolución del valor bruto de producción por rama de actividad: 2004 Q1 - 2020 Q1](https://github.com/karbartolome/datos_argentina/blob/master/R/valor_bruto_produccion.R)
+- [Uso de EcoBicis durante 2019](https://github.com/karbartolome/datos_argentina/blob/master/R/ecobicis-calendarplot.R)
+- [Dashboard ENACOM](https://github.com/karbartolome/enacom)
 
--   [Hashtag \#econtwitter durante la primera mitad del 2020](https://github.com/karbartolome/twitter)
--   [Visualización de mi red de contactos en Linkedin](https://github.com/karbartolome/linkedin-network)
+## Análisis de redes sociales
 
-:gear: **Paquetes en los que contribuyo**
+- [Hashtag #econtwitter durante la primera mitad de 2020 (twint)](https://github.com/karbartolome/twitter)
+- [Visualización de mi red de contactos en LinkedIn](https://github.com/karbartolome/linkedin-network)
 
-<p float="left">
-    <a href="https://github.com/karbartolome/shinymatic">
-        <img alt="shinymatic" src="https://github.com/karbartolome/shinymatic/raw/main/man/figures/logo.png" 
-             title="shinymatic" width="40" height="40" style="display: block; margin: auto;">
-    </a>
-    <a href="https://github.com/rafzamb/sknifedatar">
-        <img alt="sknifedatar" src="https://github.com/rafzamb/sknifedatar/raw/master/man/figures/logo.png" 
-             title="sknifedatar"  width="40" height="40" style="display: block; margin: auto;">
-    </a>
-</p>
+## Paquetes en los que contribuyo
 
-:memo: **Blogs & Dashboards:**
+- [{shinymatic}](https://github.com/karbartolome/shinymatic): Generación automática de componentes shiny según las columnas de un dataframe. 
 
-<p float="left">
+- [{sknifedatar}](https://github.com/rafzamb/sknifedatar): modelado de múltiles series de tiempo en simultáneo (una extensión de {modeltime})
+
+## Blog y dashboards
+
 <a href="https://karbartolome-blog.netlify.app/">
- <img alt="Vis" src="images/blogs.svg" title="Blogs and dashboards" width="100%" style="display: block; margin: auto;">
+  <img alt="Blogs y dashboards" src="images/blogs.svg" width="100%" />
 </a>
+
+
+## Redes
+
+<p align="left">
+  <a href="https://twitter.com/karbartolome">
+    <img alt="X / Twitter" title="X / Twitter" src="images/social/x.svg" width="28" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/karinabartolome/">
+    <img alt="LinkedIn" title="LinkedIn" src="images/social/linkedin.svg" width="28" height="28" />
+  </a>
+  <a href="https://karbartolome-blog.netlify.app/">
+    <img alt="Blog personal" title="Blog personal" src="images/social/blog.svg" width="28" height="28" />
+  </a>
 </p>
-
-
