@@ -1,22 +1,50 @@
 # Hola!
 
-Soy Karina Bartolomé, me desempeño como data scientist en el rubro fintech. Tengo un [blog](ttps://karbartolome-blog.netlify.app/) sobre modelado y visualización de datos. 
+Soy Karina Bartolomé, me desempeño como data scientist en el rubro fintech. Tengo un [blog](https://karbartolome-blog.netlify.app/) sobre modelado y visualización de datos. 
 
 <p align="left">
-  <img alt="R" title="R" src="images/tools/r.svg" width="32" height="32" />
-  <img alt="tidyverse" title="tidyverse" src="images/tools/tidyverse.png" width="32" height="32" />
-  <img alt="tidymodels" title="tidymodels" src="images/tools/tidymodels.png" width="32" height="32" />
-  <img alt="Python" title="Python" src="images/tools/python.svg" width="32" height="32" />
-  <img alt="pandas" title="pandas" src="images/tools/pandas.svg" width="32" height="32" />
-  <img alt="NumPy" title="NumPy" src="images/tools/numpy.svg" width="32" height="32" />
-  <img alt="scikit-learn" title="scikit-learn" src="images/tools/scikit-learn.svg" width="32" height="32" />
-  <img alt="Matplotlib" title="Matplotlib" src="images/tools/matplotlib.svg" width="32" height="32" />
-  <img alt="Seaborn" title="Seaborn" src="images/tools/seaborn.svg" width="32" height="32" />
-  <img alt="spaCy" title="spaCy" src="images/tools/spacy.svg" width="32" height="32" />
-  <img alt="statsmodels" title="statsmodels" src="images/tools/statsmodels.svg" width="32" height="32" />
-  <img alt="MLflow" title="MLflow" src="images/tools/mlflow.svg" width="32" height="32" />
-  <img alt="Apache Airflow" title="Apache Airflow" src="images/tools/airflow.svg" width="32" height="32" />
-  <img alt="Git" title="Git" src="images/tools/git.svg" width="32" height="32" />
+  <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="R" title="R" src="images/tools/r.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.tidyverse.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="tidyverse" title="tidyverse" src="images/tools/tidyverse.png" width="32" height="32" />
+  </a>
+  <a href="https://www.tidymodels.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="tidymodels" title="tidymodels" src="images/tools/tidymodels.png" width="32" height="32" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Python" title="Python" src="images/tools/python.svg" width="32" height="32" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="pandas" title="pandas" src="images/tools/pandas.svg" width="32" height="32" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="NumPy" title="NumPy" src="images/tools/numpy.svg" width="32" height="32" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="scikit-learn" title="scikit-learn" src="images/tools/scikit-learn.svg" width="32" height="32" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Matplotlib" title="Matplotlib" src="images/tools/matplotlib.svg" width="32" height="32" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Seaborn" title="Seaborn" src="images/tools/seaborn.svg" width="32" height="32" />
+  </a>
+  <a href="https://spacy.io/" target="_blank" rel="noopener noreferrer">
+    <img alt="spaCy" title="spaCy" src="images/tools/spacy.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="statsmodels" title="statsmodels" src="images/tools/statsmodels.svg" width="32" height="32" />
+  </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="MLflow" title="MLflow" src="images/tools/mlflow.svg" width="32" height="32" />
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="Apache Airflow" title="Apache Airflow" src="images/tools/airflow.svg" width="32" height="32" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Git" title="Git" src="images/tools/git.svg" width="32" height="32" />
+  </a>
 </p>
 
 
